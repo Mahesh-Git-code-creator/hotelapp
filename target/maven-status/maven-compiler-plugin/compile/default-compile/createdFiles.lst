@@ -1,0 +1,11 @@
+ForgotPassword_Adactin_HotelApp\Forgot_password.class
+Logincases_Adactin_HotelApp\BillingAdress.class
+BrowserPage\chromeBrowser.class
+Exception\BrowserException.class
+ExcelData\TestScenario.class
+Logincases_Adactin_HotelApp\BookHotel.class
+Logincases_Adactin_HotelApp\ConfirmationPage.class
+Logincases_Adactin_HotelApp\SearchHotelPage.class
+Logincases_Adactin_HotelApp\LoginCases.class
+NewRegistration_Adactin_HotelApp\NewRegistration.class
+Logincases_Adactin_HotelApp\stepDefinition.class

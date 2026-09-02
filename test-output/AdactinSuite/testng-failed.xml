@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AdactinSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="AllTests(failed)">
+    <classes>
+      <class name="NewRegistration_TestCases.NewRegister_Page">
+        <methods>
+          <include name="Ending"/>
+          <include name="Applaunch"/>
+          <include name="Browser"/>
+          <include name="NewRegister"/>
+        </methods>
+      </class> <!-- NewRegistration_TestCases.NewRegister_Page -->
+      <class name="Forgot_password_Test_cases.Password_Regression">
+        <methods>
+          <include name="Applaunch"/>
+          <include name="Ending"/>
+          <include name="Browser"/>
+          <include name="newpassword"/>
+        </methods>
+      </class> <!-- Forgot_password_Test_cases.Password_Regression -->
+      <class name="Regression_Page.LoginPage">
+        <methods>
+          <include name="Ending"/>
+          <include name="Applaunch"/>
+          <include name="login"/>
+          <include name="Browser"/>
+        </methods>
+      </class> <!-- Regression_Page.LoginPage -->
+    </classes>
+  </test> <!-- AllTests(failed) -->
+</suite> <!-- Failed suite [AdactinSuite] -->
